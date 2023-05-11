@@ -1,0 +1,23 @@
+{
+  "name": "front-end-common",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "prepare": "npm run build",
+  "version": "1.0.11",
+  "description": "package modules commonly for front end",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "front-end-common"
+  ],
+  "author": "tqlong1609@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
