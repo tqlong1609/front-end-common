@@ -1,7 +1,7 @@
 export function greet(name: string): string {
-  return `Hello ${name}`
+  return `Hello ${name}`;
 }
 
 export function great1(value: number): number {
-  return value * 3.14
+  return value * 3.14;
 }

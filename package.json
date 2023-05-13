@@ -14,11 +14,13 @@
     "build": "tsc"
   },
   "keywords": [
-    "front-end-common"
+    "front-end-common",
+    "front-end"
   ],
   "author": "tqlong1609@gmail.com",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.1.4",
     "typescript": "^5.0.4"
   },
   "dependencies": {
