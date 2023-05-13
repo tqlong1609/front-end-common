@@ -7,7 +7,7 @@
     "lib"
   ],
   "prepare": "npm run build",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "package modules commonly for front end",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
