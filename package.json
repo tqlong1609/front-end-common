@@ -2,6 +2,7 @@
   "name": "front-end-common",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "bin": "bin/index.js",
   "files": [
     "lib"
   ],
@@ -19,5 +20,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "react-redux": "^8.0.5",
+    "yargs": "^17.7.2"
   }
 }
